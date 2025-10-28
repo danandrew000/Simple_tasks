@@ -1,5 +1,5 @@
 # Simple_tasks
-  ## That's repository is programming lab exercises on the basic Python course
+  ### That's repository is programming lab exercises on the basic Python course
   Solving simple problems using simple Python syntax
   
     Lab 1 — Main types and control structures
