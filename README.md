@@ -1,5 +1,5 @@
 # Simple_tasks
-##Solving simple problems using simple Python syntax
+## Solving simple problems using simple Python syntax
 
 Lab 1 — Main types and control structures
 Lab 2 — Containers
