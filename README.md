@@ -1,4 +1,4 @@
-# Simple_tasks
+# Lab_python_tasks
   ### That's repository is programming lab exercises on the basic Python course
   Solving simple problems using simple Python syntax
   
