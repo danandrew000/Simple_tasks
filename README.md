@@ -1,6 +1,6 @@
 # Lab_python_tasks
   ### That's repository is programming lab exercises on the basic Python course
-  Solving simple problems using simple Python syntax
+  Solving simple problems using simple Python syntax plus beginning of data analysis
   
     Lab 1 — Main types and control structures
     Lab 2 — Containers
